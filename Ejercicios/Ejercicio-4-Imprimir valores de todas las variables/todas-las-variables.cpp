@@ -10,7 +10,7 @@ int main(int argc, char const *argv[])
 
     int valorEntero = 15;
     double valorDouble = 20.99;
-    string valorString = "Hola como estan";
+    string valorString = "Hola como estaan";
     char valorChar = 'B';
 
     cout << "Valor Boolean: " << valorBoolean <<endl;
